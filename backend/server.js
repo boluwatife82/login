@@ -11,7 +11,7 @@ app.use(express.static("frontend"));
 
 // dummy users in real life this would be a database
 const users = [
-    { username: "student123", password: "pass1234" },
+    { username: "Boluwatife82", password: "boluwatife82" },
     { username: "admin", password: "admin123" }
 ];
 
